@@ -1,0 +1,10 @@
+.git
+.agents
+skills-lock.json
+.dockerignore
+Dockerfile
+docker-compose.yml
+*.md
+logs/
+screenshot*.png
+capture-full.js
